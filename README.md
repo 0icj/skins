@@ -1,5 +1,4 @@
-<center style="text-align: center;" data-mce-style="text-align: center;">Skins</center>
-
+# skins
 <p align="center">
 
 <br>

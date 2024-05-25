@@ -13,7 +13,7 @@ optimized aristia
 # [azerisz](https://github.com/0icj/skins/raw/main/nm/azerisz.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/azerisz.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/azerisz.osk)
 <p align="center">
-optimized malisz azerino editnov
+optimized kablaze edit
 </p>
 
 # [hyeok](https://github.com/0icj/skins/raw/main/nm/hyeok.osk)

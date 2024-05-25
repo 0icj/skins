@@ -3,16 +3,17 @@
   
 # [aristia](https://github.com/0icj/skins/raw/main/nm/aristia.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/aristia.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/aristia.osk)
-aristia optimized
+<p align="center">
+optimized aristia
 </p>
 
 # [azerisz](https://github.com/0icj/skins/raw/main/nm/azerisz.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/azerisz.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/azerisz.osk)
-malisz azerino editnov optimized
+optimized malisz azerino editnov
 
 # [hyeok](https://github.com/0icj/skins/raw/main/nm/hyeok.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/hyeok.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/hyeok.osk)
-hyeok2044 optimized
+optimized hyeok2044
 
 # [ieth](https://github.com/0icj/skins/raw/main/nm/ieth.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/ieth.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/ieth.osk)

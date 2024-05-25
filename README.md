@@ -9,19 +9,19 @@ last updated <b>25/05/2024</b>
 <p align="center">
 optimized aristia
 </p>
-<br>
+
 # [azerisz](https://github.com/0icj/skins/raw/main/nm/azerisz.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/azerisz.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/azerisz.osk)
 <p align="center">
 optimized kablaze edit
 </p>
-<br>
+
 # [hyeok](https://github.com/0icj/skins/raw/main/nm/hyeok.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/hyeok.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/hyeok.osk)
 <p align="center">
 optimized hyeok2044
 </p>
-<br>
+
 # [ieth](https://github.com/0icj/skins/raw/main/nm/ieth.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/ieth.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/ieth.osk)
 <p align="center">

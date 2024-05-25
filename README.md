@@ -4,6 +4,7 @@
 # [aristia](https://github.com/0icj/skins/raw/main/nm/aristia.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/aristia.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/aristia.osk)
 aristia optimized
+</p>
 
 # [azerisz](https://github.com/0icj/skins/raw/main/nm/azerisz.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/azerisz.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/azerisz.osk)

@@ -25,7 +25,7 @@ optimized hyeok2044
 # [ieth](https://github.com/0icj/skins/raw/main/nm/ieth.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/ieth.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/ieth.osk)
 <p align="center">
-tekkito's ver - https://sites.google.com/view/tekkito/competitive-skins?authuser=0
+tekkito's ver - https://sites.google.com/view/tekkito/competitive-skins
 </p>
 
 # [plain](https://github.com/0icj/skins/raw/main/nm/plain.osk)

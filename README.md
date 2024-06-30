@@ -4,6 +4,12 @@
 last updated <b>25/05/2024</b>
 </p>
 
+# [azeriyes](https://github.com/0icj/skins/raw/main/nm/azeriyes.osk)
+[![](https://github.com/0icj/skins/blob/main/preview/azeriyes.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/azeriyes.osk)
+<p align="center">
+Goofy Ahh name
+</p>
+
 # [aristia](https://github.com/0icj/skins/raw/main/nm/aristia.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/aristia.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/aristia.osk)
 <p align="center">

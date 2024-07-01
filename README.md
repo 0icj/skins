@@ -1,7 +1,7 @@
 # skins
 <p align="center">
 <br>
-last updated <b>25/05/2024</b>
+last updated <b>29/06/2024</b>
 </p>
 
 # [azeriyes](https://github.com/0icj/skins/raw/main/nm/azeriyes.osk)

@@ -1,7 +1,13 @@
 # skins
 <p align="center">
 <br>
-last updated <b>29/06/2024</b>
+last updated <b>10/07/2024</b>
+</p>
+
+# [Aristiahhh](https://github.com/0icj/skins/raw/main/nm/Aristiahhh.osk)
+[![](https://github.com/0icj/skins/blob/main/preview/Aristiahhh.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/Aristiahhh.osk)
+<p align="center">
+Better Aristia
 </p>
 
 # [azeriyes](https://github.com/0icj/skins/raw/main/nm/azeriyes.osk)

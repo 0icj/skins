@@ -5,7 +5,7 @@ last updated <b>16/07/2024</b>
 </p>
 
 # [azerieth](https://github.com/0icj/skins/raw/main/main/azerieth.osk)
-[![](https://github.com/0icj/skins/blob/main/preview/Aristiahhh.png?raw=true)](https://github.com/0icj/skins/raw/main/main/azerieth.osk)
+[![](https://github.com/0icj/skins/blob/main/main/azerieth.png?raw=true)](https://github.com/0icj/skins/raw/main/main/azerieth.osk)
 <p align="center">
 im currently using this
 </p>

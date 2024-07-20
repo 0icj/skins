@@ -13,7 +13,7 @@ im currently using this
 # [azerino instafade](https://github.com/0icj/skins/raw/main/instafade/azerino%20instafade.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/azerino%20instafade.png?raw=true)](https://github.com/0icj/skins/raw/main/instafade/azerino%20instafade.osk)
 <p align="center">
-im currently using this
+cleaner
 </p>
 
 # [Aristiahhh](https://github.com/0icj/skins/raw/main/nm/Aristiahhh.osk)

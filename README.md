@@ -10,6 +10,12 @@ last updated <b>16/07/2024</b>
 im currently using this
 </p>
 
+# [azerino instafade](https://github.com/0icj/skins/raw/main/instafade/azerino%20instafade.osk)
+[![](https://github.com/0icj/skins/blob/main/preview/azerino%20instafade.png?raw=true)](https://github.com/0icj/skins/raw/main/instafade/azerino%20instafade.osk)
+<p align="center">
+im currently using this
+</p>
+
 # [Aristiahhh](https://github.com/0icj/skins/raw/main/nm/Aristiahhh.osk)
 [![](https://github.com/0icj/skins/blob/main/preview/Aristiahhh.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/Aristiahhh.osk)
 <p align="center">

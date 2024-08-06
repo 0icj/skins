@@ -1,7 +1,7 @@
 # skins
 <p align="center">
 <br>
-last updated <b>16/07/2024</b>
+last updated <b>06/08/2024</b>
 </p>
 
 ## [requested](https://github.com/0icj/skins/blob/main/Requested.md)

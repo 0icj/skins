@@ -3,6 +3,7 @@
 <br>
 last updated <b>17/08/2024</b>
 </p>
+most skins are elohere based
 
 ## [requested](https://github.com/0icj/skins/blob/main/Requested.md)
 ## [nm skins (non dt)](https://github.com/0icj/skins/blob/main/README.md)

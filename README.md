@@ -1,7 +1,7 @@
 # skins
 <p align="center">
 <br>
-[me](https://osu.ppy.sh/users/16370707)
+ [me](https://osu.ppy.sh/users/16370707)
   
 last updated <b>17/08/2024</b>
 </p>

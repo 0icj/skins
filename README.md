@@ -1,7 +1,7 @@
 # skins
 <p align="center">
 <br>
-https://osu.ppy.sh/users/16370707 me
+[me](https://osu.ppy.sh/users/16370707)
   
 last updated <b>17/08/2024</b>
 </p>
@@ -55,6 +55,8 @@ optimized hyeok2044
 [![](https://github.com/0icj/skins/blob/main/preview/ieth.png?raw=true)](https://github.com/0icj/skins/raw/main/nm/ieth.osk)
 <p align="center">
 tekkito's ver - https://sites.google.com/view/tekkito/competitive-skins
+  
+ty [ur cute](https://osu.ppy.sh/users/9993348)
 </p>
 
 # [plain](https://github.com/0icj/skins/raw/main/nm/plain.osk)

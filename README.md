@@ -1,13 +1,13 @@
+check [tekkito's discord channel](https://discord.gg/GnU45qMrj8) i'm posting a lot of skins and skin elements on his server
+
+[me](https://osu.ppy.sh/users/16370707)
+
 # skins
 <p align="center">
 <br>
 last updated <b>17/08/2024</b>
 </p>
 
-check [tekkito's discord channel](https://discord.gg/GnU45qMrj8) i'm posting a lot of skins and skin elements on his server
-
-[me](https://osu.ppy.sh/users/16370707)
- 
 ## [requested](https://github.com/0icj/skins/blob/main/Requested.md)
 ## [dt skins](https://github.com/0icj/skins/blob/main/DT.md)
 

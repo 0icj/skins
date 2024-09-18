@@ -2,7 +2,7 @@
 
 # Skins
 
-**Last updated: 17/08/2024**
+**Last updated: 18/09/2024**
 
 ## [Requested](https://github.com/0icj/skins/blob/main/Requested.md)
 ## [DT Skins](https://github.com/0icj/skins/blob/main/DT.md)

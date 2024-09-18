@@ -1,16 +1,5 @@
 <p align="center">
 
-Check [tekkito's discord channel](https://discord.gg/GnU45qMrj8)
-
-I'm posting a lot of skins and skin elements on his server
-
-[My OSU profile](https://osu.ppy.sh/users/16370707)
-
-</p>
-
-
-<p align="center">
-
 # Skins
 
 **Last updated: 18/09/2024**
@@ -18,6 +7,16 @@ I'm posting a lot of skins and skin elements on his server
 ## [Requested](https://github.com/0icj/skins/blob/main/Requested.md)
 ## [DT Skins](https://github.com/0icj/skins/blob/main/DT.md)
 
+---
+<p align="center">
+
+Check [tekkito's discord channel](https://discord.gg/GnU45qMrj8)
+
+I'm posting a lot of skins and skin elements on his server
+
+[My OSU profile](https://osu.ppy.sh/users/16370707)
+
+</p>
 ---
 
 ## [Azerieth](https://github.com/0icj/skins/raw/main/main/azerieth.osk)

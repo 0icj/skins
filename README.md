@@ -2,6 +2,7 @@
 <p align="center">
 <br>
 last updated <b>17/08/2024</b>
+check [tekkito's discord channel](https://discord.gg/GnU45qMrj8) i'm posting a lot of skins and skin elements on his server
 </p>
 
 [me](https://osu.ppy.sh/users/16370707)
@@ -64,3 +65,5 @@ ty [ur cute](https://osu.ppy.sh/users/9993348)
 <p align="center">
 experimental
 </p>
+
+special thanks: enri, tekkito

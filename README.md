@@ -67,6 +67,11 @@ ty [ur cute](https://osu.ppy.sh/users/9993348)
 experimental
 </p>
 
+
+<p align="center">
+<br>
 special thanks
+</p>
+
 ## [enri](https://osu.ppy.sh/users/8640970)
 ## [tekkito](https://osu.ppy.sh/users/7075211)

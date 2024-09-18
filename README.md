@@ -68,5 +68,5 @@ experimental
 </p>
 
 special thanks
-# [enri](https://osu.ppy.sh/users/8640970)
-# [tekkito](https://osu.ppy.sh/users/7075211)
+## [enri](https://osu.ppy.sh/users/8640970)
+## [tekkito](https://osu.ppy.sh/users/7075211)

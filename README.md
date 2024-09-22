@@ -2,7 +2,7 @@
 
 # Skins
 
-**Last updated: 18/09/2024**
+**Last updated: 22/09/2024**
 
 ## [Requested](https://github.com/0icj/skins/blob/main/Requested.md)
 ## [DT Skins](https://github.com/0icj/skins/blob/main/DT.md)
@@ -15,6 +15,22 @@ Check [tekkito's discord channel](https://discord.gg/GnU45qMrj8)
 I'm posting a lot of skins and skin elements on his server
 
 [My OSU profile](https://osu.ppy.sh/users/16370707)
+
+</p>
+
+---
+
+## [ieth2](https://github.com/0icj/skins/raw/main/main/ieth2.osk)
+
+<p align="center">
+  <a href="https://github.com/0icj/skins/raw/main/main/ieth2.osk">
+    <img src="https://github.com/0icj/skins/blob/main/main/ieth2.png?raw=true" alt="ieth2">
+  </a>
+</p>
+
+<p align="center">
+
+bababooey
 
 </p>
 

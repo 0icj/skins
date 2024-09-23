@@ -29,9 +29,7 @@ I'm posting a lot of skins and skin elements on his server
 </p>
 
 <p align="center">
-
 bababooey
-
 </p>
 
 ---

@@ -4,10 +4,7 @@
 
 **Last updated: 22/09/2024**
 
-## [Requested](https://github.com/0icj/skins/blob/main/Requested.md)
-## [DT Skins](https://github.com/0icj/skins/blob/main/DT.md)
 
----
 <p align="center">
 
 Check [tekkito's discord channel](https://discord.gg/GnU45qMrj8)
@@ -17,6 +14,11 @@ I'm posting a lot of skins and skin elements on his server
 [My OSU profile](https://osu.ppy.sh/users/16370707)
 
 </p>
+
+---
+
+## [Requested](https://github.com/0icj/skins/blob/main/Requested.md)
+## [DT Skins](https://github.com/0icj/skins/blob/main/DT.md)
 
 ---
 

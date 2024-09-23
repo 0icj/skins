@@ -4,12 +4,13 @@
 
 **Last updated: 22/09/2024**
 
-
 <p align="center">
 
 Check [tekkito's discord channel](https://discord.gg/GnU45qMrj8)
 
 I'm posting a lot of skins and skin elements on his server
+If you contact my Discord (it's on my userpage), I will receive your request as soon as possible if I'm not busy 
+So Feel FREE to contact me
 
 [My OSU profile](https://osu.ppy.sh/users/16370707)
 

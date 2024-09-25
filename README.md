@@ -23,10 +23,10 @@ So Feel FREE to contact me
 
 ---
 
-## [ieth2](https://github.com/0icj/skins/raw/main/main/ieth2.osk)
+## [ieth2](https://github.com/0icj/skins/raw/main/main/Ieth2.osk)
 
 <p align="center">
-  <a href="https://github.com/0icj/skins/raw/main/main/ieth2.osk">
+  <a href="https://github.com/0icj/skins/raw/main/main/Ieth2.osk">
     <img src="https://github.com/0icj/skins/blob/main/main/ieth2.png?raw=true" alt="ieth2">
   </a>
 </p>

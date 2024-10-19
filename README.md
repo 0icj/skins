@@ -2,7 +2,7 @@
 
 # Skins
 
-**Last updated: 22/09/2024**
+**Last updated: 19/10/2024**
 
 <p align="center">
 
@@ -13,6 +13,15 @@ If you contact my Discord (it's on my userpage), I will receive your request as 
 So Feel FREE to contact me
 
 [My OSU profile](https://osu.ppy.sh/users/16370707)
+
+</p>
+
+## Announce
+
+<p align="center">
+
+Feel free to using my skin elements (including ietherial) 
+I would rather appreciate you ❤️
 
 </p>
 

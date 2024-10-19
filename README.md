@@ -20,7 +20,7 @@ So Feel FREE to contact me
 
 <p align="center">
 
-Feel free to using my skin elements (including ietherial) 
+Feel free to use my skin elements (including ietherial) 
 I would rather appreciate you ❤️
 
 </p>

@@ -20,6 +20,8 @@ So Feel FREE to contact me
 
 <p align="center">
 
+I'm posting skins on tekkito's server
+
 Feel free to use my skin elements (including ietherial) 
 I would rather appreciate you ❤️
 

@@ -2,7 +2,7 @@
 
 # Skins
 
-**Last updated: 27/10/2024**
+**Last updated: 18/12/2024**
 
 <p align="center">
 
